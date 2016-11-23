@@ -1,0 +1,26 @@
+{
+  "name": "serf",
+  "version": "0.1.0",
+  "description": "Failover facade for REST requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bo-dar/serf"
+  },
+  "keywords": [
+    "failover",
+    "facade",
+    "rest"
+  ],
+  "author": "bo.dar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bo-dar/serf/issues"
+  },
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
